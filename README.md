@@ -1,2 +1,2 @@
 # microservice-config
-This is a project containing configurations of microservice project.
+It contains all configurations of microservice project.
